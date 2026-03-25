@@ -34,4 +34,4 @@ Remote / Authenticated / Low Complexity
 
 ## Credit
 
-Abdullah Alannaz Security Researcher
+Abdullah Alannaz - Security Researcher
