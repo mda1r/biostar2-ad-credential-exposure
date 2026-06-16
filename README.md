@@ -90,7 +90,7 @@ Fix released BioStar 2 v2.9.12 / BioStarX v1.0.2 |
 ## References
 
 - Suprema Inc.: https://www.supremainc.com
-- NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-31278
+
 
 ---
 
